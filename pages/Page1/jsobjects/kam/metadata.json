@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "669ea497ae21844540eb68d6_1056a423-fcf8-4399-981b-b006adae93c6",
+  "id": "Page1__$kam$_JSModule1",
+  "isPublic": true,
+  "moduleInstanceId": "Page1_kam",
+  "rootModuleInstanceId": "Page1_kam",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$kam$_JSModule1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}
