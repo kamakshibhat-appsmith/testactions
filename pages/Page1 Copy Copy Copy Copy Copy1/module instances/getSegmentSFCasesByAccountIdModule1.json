@@ -1,0 +1,33 @@
+{
+  "gitSyncId": "669ea42eae21844540eb6892_b1262d59-8431-4b42-b432-21445c21dbfe",
+  "id": "Page1 Copy Copy Copy Copy Copy1_getSegmentSFCasesByAccountIdModule1",
+  "moduleUUID": "65f3efbdc577b61ea87bdd25",
+  "packageUUID": "65ef3f10cda3a1187b7dc18d",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "accountId": "",
+      "columns": "{{Constants.CaseQueryFields.join(\",\")}}"
+    },
+    "moduleInputs": {
+      "bzljrgvtbe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "bzljrgvtbe",
+        "label": "accountId",
+        "propertyName": "inputs.accountId"
+      },
+      "yfsfumddfu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "{{Constants.CaseQueryFields.join(\",\")}}",
+        "id": "yfsfumddfu",
+        "label": "columns",
+        "propertyName": "inputs.columns"
+      }
+    },
+    "name": "getSegmentSFCasesByAccountIdModule1",
+    "pageId": "Page1 Copy Copy Copy Copy Copy1",
+    "version": "0.0.38"
+  }
+}

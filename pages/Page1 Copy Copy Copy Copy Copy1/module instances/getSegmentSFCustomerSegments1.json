@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "669ea42eae21844540eb6892_5a6fcc3b-f1b5-4ce7-91d5-2bae005a818d",
+  "id": "Page1 Copy Copy Copy Copy Copy1_getSegmentSFCustomerSegments1",
+  "moduleUUID": "65f3ee1ac577b61ea87bdbc9",
+  "packageUUID": "65ef3f10cda3a1187b7dc18d",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "moduleInputs": {},
+    "name": "getSegmentSFCustomerSegments1",
+    "pageId": "Page1 Copy Copy Copy Copy Copy1",
+    "version": "0.0.38"
+  }
+}
