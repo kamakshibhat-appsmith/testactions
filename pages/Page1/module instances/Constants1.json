@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "669ea42eae21844540eb6892_6f1cea9a-8887-4348-83b0-be05e76de78e",
+  "id": "Page1_Constants1",
+  "moduleUUID": "15633580-3f28-4db5-9400-628388055c30",
+  "packageUUID": "65ef3f10cda3a1187b7dc18d",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {},
+    "name": "Constants1",
+    "pageId": "Page1",
+    "version": "0.0.36"
+  }
+}

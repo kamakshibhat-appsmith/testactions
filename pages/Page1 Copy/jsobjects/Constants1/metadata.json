@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "669ea42eae21844540eb6892_8e0a7778-3c95-470e-98ef-53c7e044b844",
+  "id": "Page1 Copy__$Constants1$_Constants",
+  "isPublic": true,
+  "moduleInstanceId": "Page1 Copy_Constants1",
+  "rootModuleInstanceId": "Page1 Copy_Constants1",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$Constants1$_Constants",
+    "pageId": "Page1 Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}
