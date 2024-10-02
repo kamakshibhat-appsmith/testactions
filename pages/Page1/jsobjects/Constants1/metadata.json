@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "669ea42eae21844540eb6892_811390a5-269b-48b9-9033-888d6f7d4f6c",
+  "id": "Page1__$Constants1$_Constants",
+  "isPublic": true,
+  "moduleInstanceId": "Page1_Constants1",
+  "rootModuleInstanceId": "Page1_Constants1",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$Constants1$_Constants",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}
