@@ -1,0 +1,25 @@
+{
+  "gitSyncId": "669ea42eae21844540eb6892_b33d0a72-699b-41c5-8f1d-d386de098e0e",
+  "id": "Page1 Copy Copy Copy Copy Copy_getSegmentSFEventsByOppIdModule1",
+  "moduleUUID": "65f3efdcc577b61ea87bdd5d",
+  "packageUUID": "65ef3f10cda3a1187b7dc18d",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "WhatId": ""
+    },
+    "moduleInputs": {
+      "sgyptueplt": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "sgyptueplt",
+        "label": "WhatId",
+        "propertyName": "inputs.WhatId"
+      }
+    },
+    "name": "getSegmentSFEventsByOppIdModule1",
+    "pageId": "Page1 Copy Copy Copy Copy Copy",
+    "version": "0.0.38"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "gitSyncId": "669ea42eae21844540eb6892_b5c7a2fe-b472-4e49-8f64-98731cda526c",
+  "id": "Page1 Copy Copy Copy Copy Copy_getSegmentSFContactsByAccIdModule1",
+  "moduleUUID": "65f3efd4c577b61ea87bdd3c",
+  "packageUUID": "65ef3f10cda3a1187b7dc18d",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "accountId": "",
+      "columns": "{{Constants.ContactQueryFields.join(\",\")}}"
+    },
+    "moduleInputs": {
+      "ccmovudhim": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ccmovudhim",
+        "label": "accountId",
+        "propertyName": "inputs.accountId"
+      },
+      "mnpcwtbjrk": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "{{Constants.ContactQueryFields.join(\",\")}}",
+        "id": "mnpcwtbjrk",
+        "label": "columns",
+        "propertyName": "inputs.columns"
+      }
+    },
+    "name": "getSegmentSFContactsByAccIdModule1",
+    "pageId": "Page1 Copy Copy Copy Copy Copy",
+    "version": "0.0.38"
+  }
+}
